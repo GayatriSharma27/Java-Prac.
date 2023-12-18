@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3eacb8-6062-4929-ae85-128ea264930c" name="Changes" comment="calculate % for 5 subs." />
+    <list default="true" id="df3eacb8-6062-4929-ae85-128ea264930c" name="Changes" comment="input string">
+      <change beforePath="$PROJECT_DIR$/../Java-Prac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Prac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Prac/src/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Prac/src/Convert.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +31,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2ZaRziq9qInt26JcfizlTextqRD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CalculateMarks.executor": "Run",
+    "Application.Display.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.hello.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -80,12 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702694806798</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="input string">
+      <option name="closed" value="true" />
+      <created>1702923809739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702923809739</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First program" />
     <MESSAGE value="calculate % for 5 subs." />
-    <option name="LAST_COMMIT_MESSAGE" value="calculate % for 5 subs." />
+    <MESSAGE value="input string" />
+    <option name="LAST_COMMIT_MESSAGE" value="input string" />
   </component>
 </project>
