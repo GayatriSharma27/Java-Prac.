@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3eacb8-6062-4929-ae85-128ea264930c" name="Changes" comment="input string">
+    <list default="true" id="df3eacb8-6062-4929-ae85-128ea264930c" name="Changes" comment="Km to miles">
       <change beforePath="$PROJECT_DIR$/../Java-Prac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Prac/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Prac/src/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Prac/src/Convert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CalculateMarks.executor": "Run",
+    "Application.Convert.executor": "Run",
     "Application.Display.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.hello.executor": "Run",
@@ -95,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1702923809739</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Km to miles">
+      <option name="closed" value="true" />
+      <created>1702923960320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702923960320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First program" />
     <MESSAGE value="calculate % for 5 subs." />
     <MESSAGE value="input string" />
-    <option name="LAST_COMMIT_MESSAGE" value="input string" />
+    <MESSAGE value="Km to miles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Km to miles" />
   </component>
 </project>
