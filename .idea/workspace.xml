@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3eacb8-6062-4929-ae85-128ea264930c" name="Changes" comment="string progs">
+    <list default="true" id="df3eacb8-6062-4929-ae85-128ea264930c" name="Changes" comment="conditional statements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -43,9 +44,11 @@
     "Application.Convert.executor": "Run",
     "Application.Display.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.IfElse_2.executor": "Run",
     "Application.Strings1.executor": "Run",
     "Application.Strings2.executor": "Run",
     "Application.hello.executor": "Run",
+    "Application.if_else1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -138,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704792371856</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="conditional statements">
+      <option name="closed" value="true" />
+      <created>1705178635077</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705178635077</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +159,7 @@
     <MESSAGE value="Km to miles" />
     <MESSAGE value="++, -- ops" />
     <MESSAGE value="string progs" />
-    <option name="LAST_COMMIT_MESSAGE" value="string progs" />
+    <MESSAGE value="conditional statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional statements" />
   </component>
 </project>
